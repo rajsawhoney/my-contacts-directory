@@ -51,6 +51,7 @@ Enjoy the project
 
 Thanks and regards
 Raj Sahani
-Contact:
+## For Contact:
 rajsahani1819@gmail.com
+
 https://rajsahani.com.np
